@@ -1,7 +1,7 @@
 # App-deployment
 
 Check out the live web-app and have fun!
-https://salary-predictor-10.herokuapp.com/
+https://salary-predictor-10.herokuapp.com/ (I'm not that good at frontend so ignore the bland front-end design :) )
 
 Model deployment
 Heroku offers three methods of model deployment: Heroku git, GitHub, and container registry.
